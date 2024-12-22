@@ -21,37 +21,37 @@ The project showcases my ability to plan and optimize cloud resources, ensuring 
 
 ## Screenshots
 ### 1. AWS Pricing Calculator Homepage
-![AWS Pricing Homepage](screenshots/1AWS_Pricing_Home.png)
+![AWS Pricing Homepage](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/1AWS_Pricing_Home.png?raw=true)
 
 ### 2. Selecting the Region
-![Region Selection](screenshots/2Region_Select.png)
+![Region Selection](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/2Region_Select.png?raw=true)
 
 ### 3. Adding EC2 Service
-![EC2 Service](screenshots/3EC2_Service.png)
+![EC2 Service](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/3EC2_Service.png?raw=true)
 
 ### 4. Configuring EC2 Specifications
-![EC2 Specifications](screenshots/4EC2_Specs.png)
+![EC2 Specifications](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/4EC2_Specs.png?raw=true)
 
 ### 5. Selecting Instance Type
-![Instance Type](screenshots/5Instance_type.png)
+![Instance Type](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/5Instance_type.png?raw=true)
 
 ### 6. Selecting Payment Options
-![Payment Options](screenshots/6Payment_Options.png)
+![Payment Options](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/6Payment_Options.png?raw=true)
 
 ### 7. Adding Database Service
-![Database Service](screenshots/7Database_Service.png)
+![Database Service](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/7Database_Service.png?raw=true)
 
 ### 8. Configuring RDS for SQL Server
-![RDS for SQL](screenshots/8RDS_For_SQL.png)
+![RDS for SQL](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/8RDS_For_SQL.png?raw=true)
 
 ### 9. Configuring RDS Storage
-![RDS Storage](screenshots/9RDS_Storage.png)
+![RDS Storage](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/9RDS_Storage.png?raw=true)
 
 ### 10. Cost Summary
-![Cost Summary](screenshots/10Cost_Summary.png)
+![Cost Summary](https://github.com/Sir-Urrutia/aws-migration-proposal/blob/main/screenshots/AWS%20pricing/10Cost_Summary.png?raw=true)
 
 ## AWS Pricing Calculator Link
-[View Pricing Estimate Here](YOUR_SHAREABLE_LINK_HERE)
+[View Pricing Estimate Here](https://calculator.aws/#/estimate?id=2b331c128d3dab9685509c1e0a49a10788f11730)
 
 ## Files in this Repository
 - `proposal/aws-migration-proposal.pdf`: Final proposal document.
